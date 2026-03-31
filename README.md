@@ -4,10 +4,6 @@
 - 📫 How to reach me **manasegunga@gmail.com**
 
 <p>
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=manase44&show_icons=true&locale=en&layout=compact)
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=manase44&show_icons=true&locale=en) -->
-
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
